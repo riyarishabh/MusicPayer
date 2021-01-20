@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 20px;
+  
+  height: 1040px;
+  background-image: url("https://free4kwallpapers.com/uploads/originals/2015/08/11/music-wallpaper-1080p-i6.jpg");
+  background-repeat: no-repeat;
+}
+.box {
+height: 550px;
+}
+.recom {
+color: azure;
+font-size: 50px;
+text-align: left;
+}
